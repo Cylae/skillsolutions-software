@@ -37,7 +37,7 @@ html, body {
 }
 
 .punchline {
-    color: black;
+    color: white;
     font-family: 'Exo 2', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -47,7 +47,7 @@ html, body {
 }
 
 .title-skill {
-     color: black;
+     color: white;
     font-family: 'Exo 2', sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;

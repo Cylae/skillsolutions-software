@@ -34,23 +34,23 @@
     border: 1px solid #4099FF;
     width: 10%;
     left: 22%;
-    top: 175%;
+    top: 176%;
     z-index: 150;
 }
 
 .right{
-    left: 67%;
+    left: 68%;
     top: 177%;
 }
 
 .top {
-    top: 124%;
+    top: 116%;
     transform: rotate(90deg);
     left: 45%;
 }
 
 .bottom {
-    top: 244%;
+    top: 249%;
     transform: rotate(90deg);
     left: 45%;
 }
@@ -143,4 +143,16 @@
     LEFT: 0%;
     top: -45%;
     z-index: 1;
+}
+
+.swiper-wrapper {
+    z-index: -20;
+}
+
+.punchline {
+    z-index: 200;
+}
+
+.border p {
+    white-space: pre-line
 }
