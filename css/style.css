@@ -281,7 +281,15 @@ img
         text-align: center;
         padding-top: 80px;
         padding-bottom: 80px;
+        height: 1000px;
     }
+
+.more
+{
+    display: none;
+    color: black;
+}
+
 #pricing h2
     {
         padding-bottom: 60px;
